@@ -1,2 +1,0 @@
-## Definition
-Logistic regression is a statistical method used for predicting binary outcomes. Despite its name, it’s used for classification rather than regression. It estimates the probability that an instance belongs to a particular class. If the estimated probability is greater than 50%, the model predicts that the instance belongs to that class (or vice versa).
